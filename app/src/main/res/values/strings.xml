@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kourses</string>
+    <string name="wish_text">Happy Birthday, La Pyae</string>
+    <string name="sender_text">From a Human</string>
 </resources>
